@@ -1,9 +1,9 @@
 # Ex. No. :08 --Interfacing-Seven-segment-display-with-lpc2148
 
-Name:	BHUVANESHWAR V
+Name:	Ragul A C
 
 
-Roll no 212221240009
+Roll no 212221240042
 
 
 ## Aim: 
@@ -33,8 +33,6 @@ Below table shows the HEX values and corresponding digit according to LPC2148 pi
         Figure -3 Circuit diagram of interfacing for LPX4 - CA
 
 ## Kiel - Program:
-### Developed by:Ragul A C 
-### reg no:212221240042
 ```
 #include <LPC214x.h>
 unsigned char dig[]={0x88,0xeb,0x4c,0x49,0x2b,0x19,0x18,0xcb,0x8,0x9,0xa,0x38,0x9c,0x68};
